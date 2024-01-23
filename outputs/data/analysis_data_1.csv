@@ -1,0 +1,529 @@
+budget_type,city_abc,expense_category,division_board,consultants_name,x2021_expenditure
+OPERATING,City Manager,Technical,City Clerk's Office,Free & Fair,21187
+OPERATING,City Manager,Technical,City Clerk's Office,Kevin Skoglund,19939
+OPERATING,City Manager,Technical,City Clerk's Office,Ocad University,2976
+OPERATING,City Manager,Management/R&D,Concept 2 Keys,KPMG LLP,86420
+OPERATING,City Manager,Technical,Concept 2 Keys,KPMG LLP,185216
+OPERATING,City Manager,Technical,Concept 2 Keys,Watson & Associates Economists Ltd,89646
+OPERATING,City Manager,Management/R&D,Executive Administration,Mac Advisory Services,14806
+OPERATING,City Manager,Management/R&D,Governance & Corporate Strategy,Fiona Crean,35565
+OPERATING,City Manager,Management/R&D,Governance & Corporate Strategy,QuakeLab,25299
+OPERATING,City Manager,Management/R&D,Governance & Corporate Strategy,Maytree Foundation,14550
+OPERATING,City Manager,Management/R&D,Intergovernmental and Agency Relations,Canadian Urban Institute,100000
+OPERATING,City Manager,Management/R&D,Intergovernmental and Agency Relations,"Watson Advisors, Inc.",91584
+OPERATING,City Manager,Management/R&D,Intergovernmental and Agency Relations,"StrategyCorp, Inc.",65126
+OPERATING,City Manager,IT,Office of the Chief Information Security Officer,KPMG LLP,1062340
+OPERATING,City Manager,IT,Office of the Chief Information Security Officer,"Lares, LLC",11193
+OPERATING,City Manager,Management/R&D,People & Equity,Korn Ferry,192597
+OPERATING,City Manager,Management/R&D,People & Equity,Deloitte LLP,132288
+OPERATING,Corporate Services,Legal (External Lawyers & Planners),Corporate Real Estate Management,Davies Ward Phillips & Vineberg LLP,330220
+OPERATING,Corporate Services,Technical,Corporate Real Estate Management,Jensen Hughes Consulting,34446
+OPERATING,Corporate Services,Technical,Environment & Energy,Morrison Hershfield,4115
+OPERATING,Community and Social Services,Management/R&D,Children's Services,University of Toronto,11311
+OPERATING,Community and Social Services,Creative Communications,Economic Development & Culture,Arts & Communications Counselors,50877
+OPERATING,Community and Social Services,Creative Communications,Economic Development & Culture,Creative Process Inc,10176
+OPERATING,Community and Social Services,Creative Communications,Economic Development & Culture,Frances Rawlings,10119
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,Organisports Consultants Inc.,172132
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,John Archer and Associates,40769
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,Brian Trust Marketing & Communications,38771
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,NGL Nordicity Group Ltd,36084
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,PricewaterhouseCoopers LLP,25440
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,NGL Nordicity Group Ltd,22316
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,JC Williams Group Ltd,18739
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,Ginder Consulting,15264
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,Ruth Biderman,15000
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,Caldera Industries,14246
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,Creative Process Inc,13229
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,Ginder Consulting,10176
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,Overlap Associates Inc.,9187
+OPERATING,Community and Social Services,Management/R&D,Economic Development & Culture,NGL Nordicity Group Ltd,4627
+OPERATING,Community and Social Services,Technical,Economic Development & Culture,Laurie Hermiston,2526
+OPERATING,Community and Social Services,Management/R&D,Employment & Social Services,Tom Zizys,30910
+OPERATING,Community and Social Services,IT,Housing Secretariat,Lura Consulting,231286
+OPERATING,Community and Social Services,IT,Housing Secretariat,Ideaspace Consulting Inc,147559
+OPERATING,Community and Social Services,IT,Housing Secretariat,Ideaspace Consulting Inc,34818
+OPERATING,Community and Social Services,IT,Housing Secretariat,Ideaspace Consulting Inc,24851
+OPERATING,Community and Social Services,IT,Housing Secretariat,Ideaspace Consulting Inc,24359
+OPERATING,Community and Social Services,IT,Housing Secretariat,Wellesley Institute,20851
+OPERATING,Community and Social Services,IT,Housing Secretariat,David Wachsmuth,14196
+OPERATING,Community and Social Services,IT,Housing Secretariat,Ontario Inc,7819
+OPERATING,Community and Social Services,IT,Housing Secretariat,Ideaspace Consulting Inc,6340
+OPERATING,Community and Social Services,Management/R&D,Housing Secretariat,Sean Gadon,5139
+OPERATING,Community and Social Services,Technical,Housing Secretariat,MNP LLP,86007
+OPERATING,Community and Social Services,IT,"Shelter, Support & Housing Administration",DBA Bruce Davis Consulting,1994
+OPERATING,Community and Social Services,Management/R&D,"Shelter, Support & Housing Administration",Snjezana Pruginic,5792
+OPERATING,Community and Social Services,Creative Communications,"Social Development, Finance & Administration",7806167 Canada LTD O/A Makers,24993
+OPERATING,Community and Social Services,Management/R&D,"Social Development, Finance & Administration",Tommy Taylor,35100
+OPERATING,Community and Social Services,Management/R&D,"Social Development, Finance & Administration",Melana Roberts,23659
+OPERATING,Community and Social Services,Management/R&D,"Social Development, Finance & Administration",Wellesley Institute - Dr. Kwame Julius McKenzie (CEO),8219
+OPERATING,Community and Social Services,Technical,"Social Development, Finance & Administration",Taylor Newberry Consulting Services,35616
+OPERATING,Community and Social Services,IT,Toronto Public Health,KPMG LLP,227027
+OPERATING,Community and Social Services,IT,Toronto Public Health,KPMG LLP,49763
+OPERATING,Community and Social Services,IT,Toronto Public Health,Laryssa Landale,20211
+OPERATING,Community and Social Services,Management/R&D,Toronto Public Health,Blue Dot Inc,81408
+OPERATING,Finance & Treasury Services,Management/R&D,Capital Markets,Aon Hewitt Inc.,117024
+OPERATING,Finance & Treasury Services,IT,Office of the Controller,Deloitte LLP,356753
+OPERATING,Finance & Treasury Services,Management/R&D,Office of the Controller,Hemson Consulting Ltd.,290533
+OPERATING,Finance & Treasury Services,Management/R&D,Office of the Controller,ACI Argyle Communications Inc.,219541
+OPERATING,Finance & Treasury Services,Management/R&D,Office of the Controller,KPMG LLP,30528
+OPERATING,Finance & Treasury Services,Technical,Office of the Controller,Hemson Consulting Ltd.,10471
+OPERATING,Finance & Treasury Services,Technical,Office of the Controller,Hemson Consulting Ltd.,3053
+OPERATING,Finance & Treasury Services,Management/R&D,Financial Planning,Ernst & Young LLP,493536
+OPERATING,Finance & Treasury Services,Management/R&D,Financial Planning,Ernst & Young LLP,483360
+OPERATING,Finance & Treasury Services,Management/R&D,Financial Planning,Ernst & Young LLP,483360
+OPERATING,Finance & Treasury Services,Legal (External Lawyers & Planners),"Pension, Payroll & Employee Benefits","Osler, Hoskin & Harcourt, LLP",152262
+OPERATING,Finance & Treasury Services,Technical,"Pension, Payroll & Employee Benefits",Hub International Ontario Ltd.,117024
+OPERATING,Finance & Treasury Services,Management/R&D,Purchasing & Materials Management,Ernst & Young LLP,2869378
+OPERATING,Finance & Treasury Services,Creative Communications,Revenue Services,Pelmorex Corporation,4266
+OPERATING,Infrastructure and Development,Technical,City Planning,Martin Rendl Associates,36099
+OPERATING,Infrastructure and Development,Technical,City Planning,Diana Birchall,28086
+OPERATING,Infrastructure and Development,Technical,City Planning,Gladki Planning Associates Inc.,27270
+OPERATING,Infrastructure and Development,Technical,City Planning,Freedman Urban Solutions Inc.,23659
+OPERATING,Infrastructure and Development,Technical,City Planning,University of Toronto,16441
+OPERATING,Infrastructure and Development,Technical,City Planning,MPR Advisors Inc.,15761
+OPERATING,Infrastructure and Development,Technical,City Planning,Land and People Planning Ltd.,15309
+OPERATING,Infrastructure and Development,Technical,City Planning,Maytree Foundation,12000
+OPERATING,Infrastructure and Development,Technical,City Planning,Economic & Planning Systems Inc.,10044
+OPERATING,Infrastructure and Development,Technical,City Planning,Urban Strategies Inc.,6106
+OPERATING,Infrastructure and Development,Technical,City Planning,Canadian Urban Institute,5000
+OPERATING,Infrastructure and Development,Technical,City Planning,Dillon Consulting,4422
+OPERATING,Infrastructure and Development,Technical,City Planning,Valcoustics Ltd.,4070
+OPERATING,Infrastructure and Development,Technical,City Planning,WSP Canada Inc.,3256
+OPERATING,Infrastructure and Development,Technical,City Planning,Urban Metrics Inc.,3091
+OPERATING,Infrastructure and Development,Technical,City Planning,Soft DB Inc.,2490
+OPERATING,Infrastructure and Development,Technical,City Planning,Soft DB Inc.,2330
+OPERATING,Infrastructure and Development,Technical,City Planning,WSP Canada Inc.,1531
+OPERATING,Infrastructure and Development,Management/R&D,Municipal Licensing & Standards,Rentlogic Corporation,25440
+OPERATING,Infrastructure and Development,Technical,Municipal Licensing & Standards,Valcoustics Ltd.,44316
+OPERATING,Infrastructure and Development,Technical,Municipal Licensing & Standards,Animal Arts Design Studios Inc,2904
+OPERATING,Infrastructure and Development,Management/R&D,Office of Emergency Management,Matthew Torigan,1526
+OPERATING,Infrastructure and Development,Technical,Toronto Building,KPMG LLP,129361
+OPERATING,Infrastructure and Development,Creative Communications,Transportation Services,BELL Media Inc,2714
+OPERATING,Infrastructure and Development,Creative Communications,Transportation Services,DAY Communications Group Inc,392
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,CIMA Canada Inc.,82876
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,Alta Planning + Design Canada,45562
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,CSA Group,25000
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,University of Toronto,25000
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,University of Toronto,19880
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,Arts Etobicoke,8700
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,CAVCOE,6106
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,Pelmorex Corporation,3175
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,UTSC,-7952
+OPERATING,Infrastructure and Development,Management/R&D,Transportation Services,CIMA Canada Inc.,-18871
+OPERATING,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,502384
+OPERATING,Infrastructure and Development,Technical,Transportation Services,HDR Corporation,396376
+OPERATING,Infrastructure and Development,Technical,Transportation Services,University of Toronto,180000
+OPERATING,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,146254
+OPERATING,Infrastructure and Development,Technical,Transportation Services,Pembina Institute For Appropriate Development,95382
+OPERATING,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,71525
+OPERATING,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,53662
+OPERATING,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,36866
+OPERATING,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,30151
+OPERATING,Infrastructure and Development,Technical,Transportation Services,University of Toronto,25000
+OPERATING,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,24438
+OPERATING,Infrastructure and Development,Technical,Transportation Services,Aecom Canada Ltd,23629
+OPERATING,Infrastructure and Development,Technical,Transportation Services,Park People,10000
+OPERATING,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,6528
+OPERATING,Infrastructure and Development,Technical,Transportation Services,Robert Spillar,3052
+OPERATING,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,880
+OPERATING,Agencies and Corporations,Management/R&D,Exhibition Place,Pretium Engineering Inc,5000
+OPERATING,Agencies and Corporations,Technical,Exhibition Place,Optimus SBR Inc.,73450
+OPERATING,Agencies and Corporations,Technical,Exhibition Place,KJA Consultants Inc.,9500
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,LEAP Consulting,100000
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,AMS Planning & Research,86419
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,AMS Planning & Research,14200
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Broad Reach Communications,12500
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Donais Mediations and Arbitratians Inc,3500
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Kojo Institute,2000
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Mary Teresa Neilans,1900
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,The 519 Community Centre,200
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Banack Resolutions Inc.,37021
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,City of Toronto (Legal),19391
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Ackah Business Immigration Law,12930
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,"Farber Law, LLC",5312
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Hicks Morley Hamilton Stewart Storie,4467
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Aird & Berlis LLP,3681
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Ellen Low Employment Law,2500
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,"C. Derrick Chua, Barrister & Solicitor",2250
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Levitt LLP,2206
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Miller Thomson LLP,293
+OPERATING,Agencies and Corporations,IT,Toronto Community Housing Corporation,Dimensional Strategies Inc,5088
+OPERATING,Agencies and Corporations,IT,Toronto Community Housing Corporation,Cothrom Advisors Inc.,4777
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Community Housing Corporation,Helen C. Daniel LLB,33413
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,KPMG LLP,330962
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Forum Research Inc.,202773
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,R. Avis Surveying Inc.,16685
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Anique Jordan,12911
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Rudayna Bahubeshi,12450
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Zakaria Abdulle,9700
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Knightsbridge Human Capital Management,8141
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Keya Osborne,7275
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Danait Mehreteab,7100
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Toks Inc.,6960
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Jade Nixon,5915
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Ijaabo Mohamed,5000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Jason Sinclair,5000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Kiaunna Spence Bennett,5000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Melanated Roots (Annisha Stewart),5000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Natalee Bennett,5000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Sagal Abdi Ahmed,5000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Sagal Ali,5000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Zamani Ra,5000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Jupiter Energy Advisors Inc.,4940
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Vanessa Oraekwe,3836
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,ClearView Strategic Partners Inc.,3348
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Natalie Hill,3000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Sharita Henry,2200
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Daniel Consulting Group,1018
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Achampong Law c.o. Kofi Kusi-Achampong,1018
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Nataleah Hunter-Young,1000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Runako Gregg,916
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Eden Abraham,916
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Community Housing Corporation,Watershed Technologies Inc,-1628
+OPERATING,Agencies and Corporations,Technical,Toronto Community Housing Corporation,Unity Health Toronto,54225
+OPERATING,Agencies and Corporations,Technical,Toronto Community Housing Corporation,PricewaterhouseCoopers LLP,10165
+OPERATING,Agencies and Corporations,Technical,Toronto Community Housing Corporation,It's Not Rocket Science Solutions,9158
+OPERATING,Agencies and Corporations,Technical,Toronto Community Housing Corporation,WSP Canada Inc.,5967
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Police Service,Navigator Limited,147870
+OPERATING,Agencies and Corporations,IT,Toronto Police Service,Teramach Technologies Inc.,63909
+OPERATING,Agencies and Corporations,IT,Toronto Police Service,Shalom Consulting U.L.C.,56273
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,"Henein, Hutchison L.L.P.",102548
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,Lerners L.L.P.,14978
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,"Henein, Hutchison L.L.P.",6156
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,"Law Office of Dwayne P Way, Bar",5928
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,"Henein, Hutchison L.L.P.",4717
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Helpseeker Inc.,145059
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,F.R.F. Analytics Inc.,99725
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Wellesley Institute,83114
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,MNP LLP,81408
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Doctor Lorne Foster,33920
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Mercer (Canada) Limited,21321
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Institute of Internal Auditors  (I.I.A.),18317
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Gallager McDowall Associates,6975
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Ajay Sandhu,2500
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Kaitlin Fredericks,2500
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Kanika Samuels Consulting,2251
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Service,Mercer (Canada) Limited,1959
+OPERATING,Agencies and Corporations,Technical,Toronto Police Service,Envista Forensics,10175
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Services Board,Hicks Morley Hamilton Stewart Storie,143495
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Police Services Board,J Wallace Skelton Consulting,50370
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Public Library Board,Trajectory Brands Inc.,6614
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Public Library Board,Borden Ladner Gervais L.L.P.,14767
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Public Library Board,Lord Cultural Resources,29983
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Public Library Board,CRC Research,2549
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Transit Commission,FleishmanHillard,41275
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Rubin Thomlinson,189999
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Turnpenny Milne LLP,173735
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Blakes LLP,154554
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Koskie Minsky LLP,88187
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Willms & Shier Environmental Lawyers,72825
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Koskie Minsky LLP,58484
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Miller Thomson LLP,12229
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Robinson Employment Law,11903
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Hatch Ltd.,687103
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Clever Consulting Group,345256
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Hatch Ltd.,307044
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Mott MacDonald Canada Ltd.,284799
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,WSP Canada Inc.,164917
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,KPMG LLP,157240
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Optimus SBR Inc.,138980
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Dillon Consulting,134210
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Ernst & Young LLP,116738
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Optimus SBR Inc.,108985
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,KPMG LLP,105489
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,KPMG LLP,103877
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Ernst & Young LLP,98584
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,WSP Canada Inc.,91225
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Ernst & Young LLP,81136
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,CD Howe Institute,75000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Akwasi Owusu-Bempah,47390
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Scot Wortley Consulting,29854
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,WSP Canada Inc.,16770
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,WSP Canada Inc.,6052
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Stantec Consultants Inc.,-106250
+OPERATING,Agencies and Corporations,Technical,Toronto Transit Commission,Rigel Kent Security & Advisory Services Inc.,11397
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Doug Williams,1000
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Dr. Amy Thurlow,750
+OPERATING,Agencies and Corporations,IT,Toronto Waterfront Revitalization Corporation,Sapling Financial Consultants Inc.,10175
+OPERATING,Agencies and Corporations,IT,Toronto Waterfront Revitalization Corporation,Envision It Inc,6471
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Bennett Jones LLP,83205
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Dentons Canada LLP,229
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Waterfront Revitalization Corporation,Forum Research Inc.,62974
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Waterfront Revitalization Corporation,MNP LLP,35000
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Waterfront Revitalization Corporation,Ketchum Canada (2002) Inc.,10488
+OPERATING,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,PricewaterhouseCoopers LLP,22759
+OPERATING,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,KPMG LLP,10176
+OPERATING,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,Lura Consulting,1679
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Zoo,Mandaworks,83640
+OPERATING,Agencies and Corporations,Management/R&D,Toronto Zoo,WSP Canada Inc.,75552
+CAPITAL,Community and Social Services,Technical,Economic Development & Culture,Altereden,2999
+CAPITAL,Community and Social Services,Technical,Housing Secretariat,Ideaspace Consulting Inc,73411
+CAPITAL,Corporate Services,IT,Corporate Real Estate Management,Deloitte LLP,206064
+CAPITAL,Corporate Services,Legal (External Lawyers & Planners),Corporate Real Estate Management,Davies Ward Phillips & Vineberg LLP,58037
+CAPITAL,Corporate Services,Management/R&D,Corporate Real Estate Management,JC Williams Group Ltd,21370
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Revay and Associates Limited,120743
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Deloitte LLP,110550
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Stephenson Engineering Ltd.,7703
+CAPITAL,Corporate Services,IT,Technology Services,Robert H Lane And Associates Inc,50880
+CAPITAL,Finance & Treasury Services,IT,Office of the Controller,Calian Limited,13090
+CAPITAL,Finance & Treasury Services,IT,Office of the Controller,Robinson Global Management Inc.,11717
+CAPITAL,Finance & Treasury Services,Legal (External Lawyers & Planners),Office of the Controller,Deeth Williams Wall LLP,108684
+CAPITAL,Finance & Treasury Services,Legal (External Lawyers & Planners),Office of the Controller,Deeth Williams Wall LLP,50208
+CAPITAL,Finance & Treasury Services,Legal (External Lawyers & Planners),Office of the Controller,Deeth Williams Wall LLP,11397
+CAPITAL,Finance & Treasury Services,Legal (External Lawyers & Planners),Office of the Controller,Deeth Williams Wall LLP,5393
+CAPITAL,Finance & Treasury Services,Legal (External Lawyers & Planners),Office of the Controller,Deeth Williams Wall LLP,813
+CAPITAL,Finance & Treasury Services,Legal (External Lawyers & Planners),Office of the Controller,Deeth Williams Wall LLP,333
+CAPITAL,Finance & Treasury Services,Management/R&D,Office of the Controller,Ernst & Young LLP,178080
+CAPITAL,Finance & Treasury Services,Management/R&D,Office of the Controller,MNP LLP,566
+CAPITAL,Infrastructure and Development,Legal (External Lawyers & Planners),City Planning,"Ritchie, Ketcheson, Hart & Biggart",182399
+CAPITAL,Infrastructure and Development,Legal (External Lawyers & Planners),City Planning,"Osler, Hoskin & Harcourt, LLP",7810
+CAPITAL,Infrastructure and Development,Management/R&D,City Planning,RWDI,3460
+CAPITAL,Infrastructure and Development,Technical,City Planning,Perkins & Will,347016
+CAPITAL,Infrastructure and Development,Technical,City Planning,Access Planning Ltd.,209446
+CAPITAL,Infrastructure and Development,Technical,City Planning,Dillon Consulting,203666
+CAPITAL,Infrastructure and Development,Technical,City Planning,Hemson Consulting Ltd.,154657
+CAPITAL,Infrastructure and Development,Technical,City Planning,LEA Consulting Ltd,147107
+CAPITAL,Infrastructure and Development,Technical,City Planning,Stantec Consultants Inc.,129751
+CAPITAL,Infrastructure and Development,Technical,City Planning,Lura Consulting,102058
+CAPITAL,Infrastructure and Development,Technical,City Planning,Perkins & Will,85365
+CAPITAL,Infrastructure and Development,Technical,City Planning,WSP Canada Inc.,75585
+CAPITAL,Infrastructure and Development,Technical,City Planning,Architecture Evoq Inc,64431
+CAPITAL,Infrastructure and Development,Technical,City Planning,Common Bond Collective,33092
+CAPITAL,Infrastructure and Development,Technical,City Planning,Architecture Evoq Inc,32950
+CAPITAL,Infrastructure and Development,Technical,City Planning,Gladki Planning Associates Inc.,30274
+CAPITAL,Infrastructure and Development,Technical,City Planning,LEA Consulting Ltd,17669
+CAPITAL,Infrastructure and Development,Technical,City Planning,Common Bond Collective,17401
+CAPITAL,Infrastructure and Development,Technical,City Planning,Perkins & Will,16287
+CAPITAL,Infrastructure and Development,Technical,City Planning,Dillon Consulting,15401
+CAPITAL,Infrastructure and Development,Technical,City Planning,Timmins Martelle Heritage Consultants Inc,10176
+CAPITAL,Infrastructure and Development,Technical,City Planning,Public Work for Urban Design,9567
+CAPITAL,Infrastructure and Development,Technical,City Planning,Common Bond Collective,9133
+CAPITAL,Infrastructure and Development,Technical,City Planning,Timmins Martelle Heritage Consultants Inc,7240
+CAPITAL,Infrastructure and Development,Technical,City Planning,Lura Consulting,677
+CAPITAL,Infrastructure and Development,Technical,City Planning,Groundswell Projects Inc,-58
+CAPITAL,Infrastructure and Development,IT,Solid Waste Management,KPMG LLP,56072
+CAPITAL,Infrastructure and Development,Management/R&D,Solid Waste Management,GHD Limited,295249
+CAPITAL,Infrastructure and Development,Management/R&D,Solid Waste Management,FCS Group Solutions,163112
+CAPITAL,Infrastructure and Development,Management/R&D,Solid Waste Management,David Suzuki Foundation,133078
+CAPITAL,Infrastructure and Development,Management/R&D,Solid Waste Management,HDR Corporation,110636
+CAPITAL,Infrastructure and Development,Management/R&D,Solid Waste Management,Strategy Matters Inc,80418
+CAPITAL,Infrastructure and Development,Management/R&D,Solid Waste Management,KPMG LLP,32358
+CAPITAL,Infrastructure and Development,Management/R&D,Solid Waste Management,Sustainable Global Resources Ltd,7925
+CAPITAL,Infrastructure and Development,Technical,Solid Waste Management,GHD Limited,34669
+CAPITAL,Infrastructure and Development,Technical,Solid Waste Management,Golder Associates Ltd.,7111
+CAPITAL,Infrastructure and Development,Management/R&D,Toronto Water,Ryerson University,-3000
+CAPITAL,Infrastructure and Development,Technical,Toronto Water,Perkins & Will,63847
+CAPITAL,Infrastructure and Development,Technical,Toronto Water,Powercore Engineering Ltd,11957
+CAPITAL,Infrastructure and Development,Management/R&D,Transit Expansion Office,Leigh / Fisher Canada Inc.,121972
+CAPITAL,Infrastructure and Development,Management/R&D,Transit Expansion Office,Arup Canada Inc.,71040
+CAPITAL,Infrastructure and Development,Management/R&D,Transit Expansion Office,HDR Corporation,10558
+CAPITAL,Infrastructure and Development,Management/R&D,Transit Expansion Office,HDR Corporation,1017
+CAPITAL,Infrastructure and Development,Management/R&D,Transit Expansion Office,HDR Corporation,944
+CAPITAL,Infrastructure and Development,Management/R&D,Transit Expansion Office,Aecom Canada Ltd,-97883
+CAPITAL,Infrastructure and Development,Creative Communications,Transportation Services,Colin White Studio,509
+CAPITAL,Infrastructure and Development,IT,Transportation Services,Richter Advisory Group Inc.,86514
+CAPITAL,Infrastructure and Development,Management/R&D,Transportation Services,Pelmorex Corporation,1572
+CAPITAL,Infrastructure and Development,Management/R&D,Transportation Services,University Of Toronto,-50000
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto Waterfront Revitalization Corporation,2309192
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,616254
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,533629
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,403540
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,400513
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation,337722
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,320525
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Aecom Canada Ltd,284185
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Wood Environment & Infrastructure,245583
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,213314
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,203311
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Dillon Consulting,183392
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,181142
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Alta Planning + Design Canada,162978
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,152508
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Dillon Consulting,133297
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Transafe Consulting Ltd,131952
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,127470
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,117908
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Wood Environment & Infrastructure,110257
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Transoft Solutions Inc,106339
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,101686
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Steer Davies Gleave North America,99619
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation,99520
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,93367
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Aecom Canada Ltd,93355
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Wood Environment & Infrastructure,90327
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,77240
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,76845
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,68625
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Alta Planning + Design Canada,65176
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Clean Air Partnership,61150
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,53171
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,52083
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,University Of Toronto,50800
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,49852
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,GHD Limited,47900
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,44876
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,43174
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,42594
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Wood Environment & Infrastructure,42230
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Wood Environment & Infrastructure,37830
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,37335
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,36833
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,36648
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Alta Planning + Design Canada,36073
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Perkins & Will,36045
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Moon-Matz Ltd.,36010
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation,34159
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,29812
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Wood Environment & Infrastructure,29415
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Human Factors North Inc./ Ergon,26783
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,24770
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,22896
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,21355
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,20804
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation,18810
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,18517
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,17352
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,15305
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Wood Environment & Infrastructure,15003
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Transafe Consulting Ltd,12918
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Parsons Inc.,10710
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,10171
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd,8660
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,8304
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,7688
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Clean Air Partnership,7490
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,7118
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Lura Consulting,6838
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,6612
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto Hydro Electric System,6086
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Perkins & Will,5644
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.,5504
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto and Region Conservation Authority,3774
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto Parking Authority,3532
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto Hydro Electric System,2035
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,1499
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Moon-Matz Ltd.,522
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.,-17303
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Park People,-42000
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service,-264167
+CAPITAL,Agencies and Corporations,IT,Exhibition Place,OnX Enterprise Solutions,6320
+CAPITAL,Agencies and Corporations,Technical,Exhibition Place,Fisher Environmental,30470
+CAPITAL,Agencies and Corporations,Technical,Exhibition Place,Read Jones Christoffersen Ltd.,2150
+CAPITAL,Agencies and Corporations,Technical,Exhibition Place,KJA Consultants Inc.,1500
+CAPITAL,Agencies and Corporations,Technical,TO Live,Building Arts Architects Inc,725008
+CAPITAL,Agencies and Corporations,Technical,TO Live,Diamond Schmitt Architects,227735
+CAPITAL,Agencies and Corporations,Technical,TO Live,Build Toronto Inc.,125033
+CAPITAL,Agencies and Corporations,Technical,TO Live,Mcgregor Allsop Limited,66480
+CAPITAL,Agencies and Corporations,Technical,TO Live,Building Arts Architects Inc,34750
+CAPITAL,Agencies and Corporations,Technical,TO Live,Smith + Andersen,21246
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.,19800
+CAPITAL,Agencies and Corporations,Technical,TO Live,The Offord Group Inc.,18950
+CAPITAL,Agencies and Corporations,Technical,TO Live,Novita Techne Limited,18700
+CAPITAL,Agencies and Corporations,Technical,TO Live,Jaffe Holden Acoustics Inc,18575
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.,18110
+CAPITAL,Agencies and Corporations,Technical,TO Live,Mcgregor Allsop Limited,17846
+CAPITAL,Agencies and Corporations,Technical,TO Live,AMS Planning & Research,14200
+CAPITAL,Agencies and Corporations,Technical,TO Live,Smith +Andersen,13500
+CAPITAL,Agencies and Corporations,Technical,TO Live,Novita Techne Limited,9070
+CAPITAL,Agencies and Corporations,Technical,TO Live,Net + Gain Partners,8600
+CAPITAL,Agencies and Corporations,Technical,TO Live,LRI Engineering,8500
+CAPITAL,Agencies and Corporations,Technical,TO Live,Mcgregor Allsop Limited,8400
+CAPITAL,Agencies and Corporations,Technical,TO Live,Scenework Consulting Ltd o/a Scenework,7800
+CAPITAL,Agencies and Corporations,Technical,TO Live,Novita Techne Limited,7750
+CAPITAL,Agencies and Corporations,Technical,TO Live,Novita Techne Limited,7750
+CAPITAL,Agencies and Corporations,Technical,TO Live,CFMS consulting Inc,6900
+CAPITAL,Agencies and Corporations,Technical,TO Live,Novita Techne Limited,4550
+CAPITAL,Agencies and Corporations,Technical,TO Live,Smith +Andersen,3600
+CAPITAL,Agencies and Corporations,Technical,TO Live,Fire Cube Inc.,3587
+CAPITAL,Agencies and Corporations,Technical,TO Live,Jaffe Holden Acoustics Inc,2550
+CAPITAL,Agencies and Corporations,Technical,TO Live,Fire Cube Inc.,2500
+CAPITAL,Agencies and Corporations,Technical,TO Live,Mcgregor Allsop Limited,2425
+CAPITAL,Agencies and Corporations,Technical,TO Live,Smith +Andersen,2250
+CAPITAL,Agencies and Corporations,Technical,TO Live,Mcgregor Allsop Limited,2100
+CAPITAL,Agencies and Corporations,Technical,TO Live,LRI Engineering,1603
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.,1520
+CAPITAL,Agencies and Corporations,Technical,TO Live,Jaffe Holden Acoustics Inc,1500
+CAPITAL,Agencies and Corporations,Technical,TO Live,Mars Green Consulting,1500
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.,1440
+CAPITAL,Agencies and Corporations,Technical,TO Live,The Hidi Group Inc,1200
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.,740
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.,725
+CAPITAL,Agencies and Corporations,Technical,TO Live,Blackwell Structural Engineers,700
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.,550
+CAPITAL,Agencies and Corporations,Technical,Toronto Community Housing Corporation,KPMG LLP,416105
+CAPITAL,Agencies and Corporations,Technical,Toronto Community Housing Corporation,PricewaterhouseCoopers LLP,128011
+CAPITAL,Agencies and Corporations,Technical,Toronto Community Housing Corporation,PricewaterhouseCoopers LLP,48948
+CAPITAL,Agencies and Corporations,IT,Toronto Police Service,Teramach Technologies Inc.,63909
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Police Service,MNP LLP,50880
+CAPITAL,Agencies and Corporations,Technical,Toronto Police Service,Aecom Canada Ltd,132005
+CAPITAL,Agencies and Corporations,IT,Toronto Transit Commission,IBM Canada Ltd.,387979
+CAPITAL,Agencies and Corporations,IT,Toronto Transit Commission,IBI Group Professional Service,95758
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Willms & Shier Environmental Lawyers,359962
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Chernos Flaherty svonkin LLP,201161
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Blakes LLP,56534
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,"Osler, Hoskins & Harcourt Law Services (C. Wong)",40543
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Transit Commission,GEF Consulting Inc.,581264
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Ernst & Young LLP,179117
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Transit Commission,CIMA Canada Inc.,159563
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Optimus SBR Inc.,146474
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Ernst & Young LLP,113875
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Transit Commission,CH2M Hill Canada Ltd,96912
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Transit Commission,Optimus SBR Inc.,92192
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,768504
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Hatch Ltd.,594954
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,LTK Consulting Services Inc.,565219
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CIMA Canada Inc.,500000
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Transit Systems Engineering Inc.,374513
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,KPMG LLP,349839
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Mott MacDonald Canada Ltd.,292177
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Comtech Group Inc.,287466
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,NORR Ltd,256000
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,WSP Canada Inc.,246167
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Hatch Ltd.,245529
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,226701
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Ernst & Young LLP,215000
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,193792
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,LTK Consulting Services Inc.,187391
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Kinectrics Inc.,186424
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,STV Incorporated,166562
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Hatch Ltd.,154433
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,152665
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,GEF Consulting Inc.,146076
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,132513
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Hatch Ltd.,131753
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,118313
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Ontario Environmental & Safety Network Ltd.,107653
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,102948
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,69909
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,69792
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,63211
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Hatch Ltd.,57642
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd,53905
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Optimus SBR Inc.,25572
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Comtech Group Inc.,4016
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective,108302
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective,40069
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Swerhun Inc.,9006
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Hammersmith Consultants,6375
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Raymond Ludwin,4500
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,McCarthy Tetrault LLP,401909
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Dentons Canada LLP,116299
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Weirfolds LLP,45142
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,McLachlin Enterprises Inc.,35190
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Bennett Jones LLP,9235
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Waterfront Revitalization Corporation,Standard Practice,67000
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Waterfront Revitalization Corporation,PricewaterhouseCoopers LLP,60000
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Waterfront Revitalization Corporation,Tate Economic Research Inc.,16873
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Waterfront Revitalization Corporation,Pareto Sports,12000
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Waterfront Revitalization Corporation,Carters Professional Corporation,5714
+CAPITAL,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,KPMG LLP,195150
+CAPITAL,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,Quadrangle Architects Limited,52733
+CAPITAL,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,Archaeological Services Inc.,22224
+CAPITAL,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,Section Architects Ltd.,16450
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Zoo,Holman Exhibits Limited,19627
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Zoo,Zeidler Architecture Inc.,142900
+CAPITAL,Agencies and Corporations,Management/R&D,Toronto Zoo,Zeidler Architecture Inc.,78824
+CAPITAL,Agencies and Corporations,Technical,Toronto Zoo,WSP Canada Inc.,16529
+CAPITAL,Agencies and Corporations,Technical,Toronto Zoo,Read Jones Christoffersen Ltd.,12350
+CAPITAL,Agencies and Corporations,Technical,Toronto Zoo,Grounded Engineering,4360
+NA,NA,NA,NA,NA,45047183

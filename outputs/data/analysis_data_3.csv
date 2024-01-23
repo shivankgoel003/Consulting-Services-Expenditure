@@ -1,0 +1,437 @@
+budget_type,city_abc,expense_category,division_board,consultants_name
+OPERATING,City Manager,Management / Research & Development,Chief Transformation Office,Slalom Consulting
+OPERATING,City Manager,Management / Research & Development,City Clerk's Office,Western Management Consultants of Ontario
+OPERATING,City Manager,Management / Research & Development,City Clerk's Office,MNP LLP
+OPERATING,City Manager,Management / Research & Development,City Clerk's Office,Procurity Group
+OPERATING,City Manager,Technical,Governance & Corporate Strategy,George Brown College
+OPERATING,City Manager,Management / Research & Development,People & Equity,Transformative Directions
+OPERATING,City Manager,Management / Research & Development,Strategic Communications,Edelman P.R. Worldwide Canada Inc.
+OPERATING,Community and Social Services,Management / Research & Development,Children's Services,Gladki Planning Associates Inc.
+OPERATING,Community and Social Services,Management / Research & Development,Children's Services,Calian Limited
+OPERATING,Community and Social Services,Technical,Children's Services,LGA Architectural Partners Limited
+OPERATING,Community and Social Services,Technical,Children's Services,"Salmon, Christina"
+OPERATING,Community and Social Services,Technical,Children's Services,Barnes Management Group
+OPERATING,Community and Social Services,Technical,Children's Services,George Brown College
+OPERATING,Community and Social Services,Management / Research & Development,Court Services,MNP LLP
+OPERATING,Community and Social Services,Management / Research & Development,Court Services,Diabsolut Inc.
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,HR Transformations Inc
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,NGL Nordicity Group Ltd
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,John Archer And Associates
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,Dragonfly Consulting Services Canada
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,JC Williams Group Ltd
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,"Granata, Paolo"
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,NGL Nordicity Group Ltd
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,The Middle CC Group Inc
+OPERATING,Community and Social Services,Management / Research & Development,Economic Development & Culture,Diversio Inc
+OPERATING,Community and Social Services,Creative Communications,"Parks, Forestry & Recreation",Manifest Communications Inc.
+OPERATING,Community and Social Services,Creative Communications,"Parks, Forestry & Recreation",Pilot PMR
+OPERATING,Community and Social Services,Technical,"Parks, Forestry & Recreation",Watson & Associates Economists Ltd
+OPERATING,Community and Social Services,Technical,"Parks, Forestry & Recreation","Harper, Kathleen (Plastibuff)"
+OPERATING,Community and Social Services,Management / Research & Development,Seniors Services and Long-Term Care,York University
+OPERATING,Community and Social Services,Management / Research & Development,"Shelter, Support & Housing Administration",Beverly Wolfus Consulting
+OPERATING,Community and Social Services,Management / Research & Development,"Shelter, Support & Housing Administration",Canadian Observatory of Homelessness
+OPERATING,Community and Social Services,Management / Research & Development,"Shelter, Support & Housing Administration",Canadian Observatory of Homelessness
+OPERATING,Community and Social Services,Management / Research & Development,"Shelter, Support & Housing Administration",Canadian Observatory of Homelessness
+OPERATING,Community and Social Services,Management / Research & Development,"Shelter, Support & Housing Administration",Joy Connelly
+OPERATING,Community and Social Services,Technical,"Shelter, Support & Housing Administration",Hildich Architect
+OPERATING,Community and Social Services,Technical,"Shelter, Support & Housing Administration",LOBO Consulting Services Inc
+OPERATING,Community and Social Services,Creative Communications,"Social Development, Finance & Administration",Centre for Independent Living in Toronto (CILT)
+OPERATING,Community and Social Services,Management / Research & Development,"Social Development, Finance & Administration",GVK International Inc.
+OPERATING,Community and Social Services,Technical,"Social Development, Finance & Administration",Weinstein Taylor & Associates
+OPERATING,Community and Social Services,Information Technology,Toronto Public Health,Laryssa Landale
+OPERATING,Community and Social Services,Legal (External Lawyers & Planners),Toronto Public Health,David L. Mowat
+OPERATING,Community and Social Services,Management / Research & Development,Toronto Public Health,Human Agency Incorp.
+OPERATING,Community and Social Services,Management / Research & Development,Toronto Public Health,Barnes Management Group
+OPERATING,Community and Social Services,Management / Research & Development,Toronto Public Health,MNP LLP
+OPERATING,Community and Social Services,Management / Research & Development,Toronto Public Health,Lough Barnes Consulting Group Inc.
+OPERATING,Community and Social Services,Management / Research & Development,Toronto Public Health,Optimus SBR Inc.
+OPERATING,Community and Social Services,Management / Research & Development,Toronto Public Health,SN Management Inc.
+OPERATING,Corporate Services,Legal (External Lawyers & Planners),Corporate Real Estate Management,Davies Ward Phillips & Vineberg LLP
+OPERATING,Corporate Services,Management / Research & Development,Corporate Real Estate Management,Beauleigh Retail Consultants
+OPERATING,Corporate Services,Management / Research & Development,Corporate Real Estate Management,FM Insight Consulting Ltd.
+OPERATING,Corporate Services,Management / Research & Development,Corporate Real Estate Management,Phase 5 Consulting Group
+OPERATING,Corporate Services,Technical,Environment & Energy,VIP Energy Services Inc.
+OPERATING,Corporate Services,Information Technology,Technology Services,KPMG LLP
+OPERATING,Corporate Services,Information Technology,Technology Services,KPMG LLP
+OPERATING,Finance & Treasury Services,Management / Research & Development,Capital Markets,Aon Hewitt Inc.
+OPERATING,Finance & Treasury Services,Management / Research & Development,Controller,Regionomics
+OPERATING,Finance & Treasury Services,Management / Research & Development,Controller,KPMG LLP
+OPERATING,Finance & Treasury Services,Management / Research & Development,Controller,KPMG LLP
+OPERATING,Finance & Treasury Services,Technical,Controller,Hemson Consulting Ltd.
+OPERATING,Finance & Treasury Services,Technical,Controller,Hemson Consulting Ltd.
+OPERATING,Finance & Treasury Services,Management / Research & Development,Finance & Administration,Ernst & Young LLP
+OPERATING,Finance & Treasury Services,Management / Research & Development,Finance & Administration,Ernst & Young LLP
+OPERATING,Finance & Treasury Services,Management / Research & Development,Finance & Administration,Ernst & Young LLP
+OPERATING,Finance & Treasury Services,Legal (External Lawyers & Planners),"Pension, Payroll & Employee Benefits","Osler, Hoskin & Harcourt, LLP"
+OPERATING,Finance & Treasury Services,Management / Research & Development,Purchasing & Materials Management,Ernst & Young LLP
+OPERATING,Infrastructure and Development,Technical,City Planning,Mass LBP Inc.
+OPERATING,Infrastructure and Development,Technical,City Planning,Dialog Ontario Inc.
+OPERATING,Infrastructure and Development,Technical,City Planning,Valcoustics Ltd.
+OPERATING,Infrastructure and Development,Technical,City Planning,Jade Acoustics Inc.
+OPERATING,Infrastructure and Development,Technical,City Planning,GHD Limited
+OPERATING,Infrastructure and Development,Technical,City Planning,Canadian Urban Institute
+OPERATING,Infrastructure and Development,Management / Research & Development,Engineering & Construction Services,The Corporation of the City of Windsor
+OPERATING,Infrastructure and Development,Technical,Engineering & Construction Services,"Osler, Hoskin & Harcourt, LLP"
+OPERATING,Infrastructure and Development,Management / Research & Development,Municipal Licensing & Standards,Swerhun Inc.
+OPERATING,Infrastructure and Development,Management / Research & Development,Municipal Licensing & Standards,The Strategic Counsel
+OPERATING,Infrastructure and Development,Management / Research & Development,Municipal Licensing & Standards,Ipsos Limited
+OPERATING,Infrastructure and Development,Technical,Municipal Licensing & Standards,SS Wilson Associates Inc.
+OPERATING,Infrastructure and Development,Management / Research & Development,Solid Waste Management,Kelleher Environment
+OPERATING,Infrastructure and Development,Technical,Solid Waste Management,Mindful Experience Inc.
+OPERATING,Infrastructure and Development,Management / Research & Development,Toronto Building,Splash Effect
+OPERATING,Infrastructure and Development,Management / Research & Development,Toronto Water,The Corporation of the City of Windsor
+OPERATING,Infrastructure and Development,Management / Research & Development,Transportation Services,PricewaterhouseCoopers LLP
+OPERATING,Infrastructure and Development,Technical,Transportation Services,HDR Corporation
+OPERATING,Agencies and Corporations,Information Technology,Exhibition Place,Beanfield Technologies
+OPERATING,Agencies and Corporations,Information Technology,Exhibition Place,Beanfield Technologies
+OPERATING,Agencies and Corporations,Management / Research & Development,Exhibition Place,Werthiem Consulting Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Exhibition Place,Gordon Strategy
+OPERATING,Agencies and Corporations,Management / Research & Development,Exhibition Place,Work Tango Inc.
+OPERATING,Agencies and Corporations,Technical,Exhibition Place,RWDI
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Donais Mediations and Arbitratians Inc
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Elana Milstein
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Emerging Methods Inc
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Field Day Inc
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,HC Marketing LLC
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,HC Marketing LLC
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Karen Carter
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Murray Paterson Marketing Group
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Ontario Presents
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Neal Rempel
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Timea Wharton-Suri
+OPERATING,Agencies and Corporations,Creative Communications,TO Live,Timea Wharton-Suri
+OPERATING,Agencies and Corporations,Information Technology,TO Live,Jobchart International Inc
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,"Farber Law, LLC"
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Hicks Morley Hamilton Stewart Storie
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Hicks Morley Hamilton Stewart Storie
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Levitt LLP
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),TO Live,Miller Thomson LLP
+OPERATING,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Community Housing Corporation,NAVEX Global
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Community Housing Corporation,Navigator Limited
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Community Housing Corporation,Navigator Limited
+OPERATING,Agencies and Corporations,Information Technology,Toronto Community Housing Corporation,iSecurity Consulting Inc.
+OPERATING,Agencies and Corporations,Information Technology,Toronto Community Housing Corporation,Froese Forensic Partners Ltd.
+OPERATING,Agencies and Corporations,Information Technology,Toronto Community Housing Corporation,Infotech Research Group
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Community Housing Corporation,KPMG LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Community Housing Corporation,Altus Group Limited
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Community Housing Corporation,PricewaterhouseCoopers LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Community Housing Corporation,PricewaterhouseCoopers LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Community Housing Corporation,Sara Luther
+OPERATING,Agencies and Corporations,Technical,Toronto Community Housing Corporation,Watershed Technologies Inc
+OPERATING,Agencies and Corporations,Technical,Toronto Community Housing Corporation,Watershed Technologies Inc
+OPERATING,Agencies and Corporations,Technical,Toronto Community Housing Corporation,Ipsos Limited
+OPERATING,Agencies and Corporations,Technical,Toronto Community Housing Corporation,Zerem Electrical Services Ltd.
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Police Service,Deloitte LLP
+OPERATING,Agencies and Corporations,Information Technology,Toronto Police Service,Gartner Canada
+OPERATING,Agencies and Corporations,Information Technology,Toronto Police Service,Teramach Technologies Inc.
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,"Henein, Hutchison L.L.P."
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,"Henein, Hutchison L.L.P."
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,Ceyssens & Bauchman
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,Miller Thomson LLP
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,Patrick Lesage
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Korn Ferry
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Edelman P.R. Worldwide Canada Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Gallager McDowall Associates
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Mercer (Canada) Limited
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Diabsolut Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Goodwin Consulting Service Inc
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Deloitte LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Mercer (Canada) Limited
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Service,"Galabuzi, Grace-Edward"
+OPERATING,Agencies and Corporations,Technical,Toronto Police Service,Michael Cizmar & Associates
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Services Board,Hicks Morley Hamilton Stewart Storie
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Services Board,Jen Finan
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Police Services Board,Ty Smith
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Public Library Board,Trajectory Brands Inc.
+OPERATING,Agencies and Corporations,Information Technology,Toronto Public Library Board,BDO Canada LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Public Library Board,CYR & Associates Inc
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Public Library Board,Met-Scan Canada Ltd.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Public Library Board,Western Management Consultants of Ontario
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Public Library Board,Strategic Counsel
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Public Library Board,MNP LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Public Library Board,NGL Nordicity Group LTD
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,KPMG LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,CH2M Hill Canada Ltd
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Stantec Consultants Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,WSP Canada Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Optimus SBR Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Optimus SBR Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Scot Wortley Consulting
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Optimus SBR Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Akwasi Owusu-Bempah
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Execute Strategy
+OPERATING,Agencies and Corporations,Technical,Toronto Transit Commission,WSP Canada Inc.
+OPERATING,Agencies and Corporations,Technical,Toronto Transit Commission,Network Rail Consulting (Canada) Inc.
+OPERATING,Agencies and Corporations,Technical,Toronto Transit Commission,Optimus SBR Inc.
+OPERATING,Agencies and Corporations,Technical,Toronto Transit Commission,30 Forensic
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Counsel Public Affairs INC.
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Hill and Knowlton Canada
+OPERATING,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective
+OPERATING,Agencies and Corporations,Information Technology,Toronto Waterfront Revitalization Corporation,Envision It Inc
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Dentons Canada LLP
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Bennett Jones LLP
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,McCarthy Tetrault LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,Ketchum Canada (2002) Inc.
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,Global Governance Advisors
+OPERATING,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,MaRS Discovery District
+OPERATING,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,Lura Consulting
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Zoo,Miller Thomson LLP
+OPERATING,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Zoo,Miller Thomson LLP
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Zoo,Verita HR Services
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Zoo,Zoo Advisors LLC
+OPERATING,Agencies and Corporations,Management / Research & Development,Toronto Zoo,Verita HR Services
+CAPITAL,City Manager,Management / Research & Development,City Clerk's Office,MNP LLP
+CAPITAL,Community and Social Services,Management / Research & Development,Economic Development & Culture,Gladki Planning Associates Inc.
+CAPITAL,Corporate Services,Management / Research & Development,311 Toronto,Deloitte LLP
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,RPL Architects Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,WSP Canada Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Architecture Evoq Inc
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Brookfield Financial
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Read Jones Christoffersen Ltd.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Soberman Engineering Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,WSP Canada Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,NORR Ltd
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Arencon Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,CodeNext Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Morrison Hershfield
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,CodeNext Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,CodeNext Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,CodeNext Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,CodeNext Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Read Jones Christoffersen Ltd.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Codenext Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,Innovative Fire Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,CodeNext Inc.
+CAPITAL,Corporate Services,Technical,Corporate Real Estate Management,CodeNext Inc.
+CAPITAL,Corporate Services,Technical,Environment & Energy,MCW Custom Energy Solutions Ltd.
+CAPITAL,Finance & Treasury Services,Management / Research & Development,Controller,Accenture Inc.
+CAPITAL,Finance & Treasury Services,Technical,"Pension, Payroll & Employee Benefits",Calian Limited
+CAPITAL,Infrastructure and Development,Creative Communications,City Planning,Swerhun Inc.
+CAPITAL,Infrastructure and Development,Management / Research & Development,City Planning,SVN Architects & Planners Inc.
+CAPITAL,Infrastructure and Development,Management / Research & Development,City Planning,Dillon Consulting
+CAPITAL,Infrastructure and Development,Management / Research & Development,City Planning,RWDI
+CAPITAL,Infrastructure and Development,Technical,City Planning,Perkins & Will
+CAPITAL,Infrastructure and Development,Technical,City Planning,Perkins & Will
+CAPITAL,Infrastructure and Development,Technical,City Planning,IBI Group Professional Service
+CAPITAL,Infrastructure and Development,Technical,City Planning,SVN Architects & Planners Inc.
+CAPITAL,Infrastructure and Development,Technical,City Planning,DTAH
+CAPITAL,Infrastructure and Development,Technical,City Planning,Stantec Consultants Inc.
+CAPITAL,Infrastructure and Development,Technical,City Planning,Stantec Consultants Inc.
+CAPITAL,Infrastructure and Development,Technical,City Planning,Archaeological Services Inc.
+CAPITAL,Infrastructure and Development,Technical,City Planning,Architecture Evoq Inc
+CAPITAL,Infrastructure and Development,Technical,City Planning,John Archer and Associates
+CAPITAL,Infrastructure and Development,Technical,City Planning,N. Barry Lyon Consultants Limited
+CAPITAL,Infrastructure and Development,Technical,City Planning,Dillon Consulting
+CAPITAL,Infrastructure and Development,Technical,City Planning,Hemson Consulting Ltd.
+CAPITAL,Infrastructure and Development,Technical,City Planning,Dillon Consulting
+CAPITAL,Infrastructure and Development,Technical,City Planning,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,City Planning,Cushman & Wakefield Ltd.
+CAPITAL,Infrastructure and Development,Technical,City Planning,Public Work for Urban Design
+CAPITAL,Infrastructure and Development,Technical,City Planning,Perkins & Will
+CAPITAL,Infrastructure and Development,Management / Research & Development,Solid Waste Management,Sustainable Global Resources Ltd
+CAPITAL,Infrastructure and Development,Management / Research & Development,Solid Waste Management,HDR Corporation
+CAPITAL,Infrastructure and Development,Management / Research & Development,Solid Waste Management,KPMG LLP
+CAPITAL,Infrastructure and Development,Management / Research & Development,Solid Waste Management,Strategy Matters Inc
+CAPITAL,Infrastructure and Development,Management / Research & Development,Solid Waste Management,Strategy Matters Inc
+CAPITAL,Infrastructure and Development,Technical,Solid Waste Management,Golder Associates Ltd.
+CAPITAL,Infrastructure and Development,Technical,Solid Waste Management,GHD Limited
+CAPITAL,Infrastructure and Development,Technical,Solid Waste Management,Deloitte LLP
+CAPITAL,Infrastructure and Development,Management / Research & Development,Toronto Water,Colliers Project Leaders Inc
+CAPITAL,Infrastructure and Development,Technical,Toronto Water,E2 Energy Inc
+CAPITAL,Infrastructure and Development,Technical,Toronto Water,WSP Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Toronto Water,Ryerson University
+CAPITAL,Infrastructure and Development,Technical,Toronto Water,Associated Engineering (ONT) Ltd
+CAPITAL,Infrastructure and Development,Technical,Toronto Water,Blue Source Canada ULC
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Aecom Canada Ltd
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Leigh / Fisher Canada Inc.
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Arup Canada Inc.
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,HDR Corporation
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Aecom Canada Ltd
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Aecom Canada Ltd
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Leigh / Fisher Canada Inc.
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Urban Strategies Inc.
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Perkins & Will
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Dillon Consulting
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transit Expansion Office,Arup Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transit Expansion Office,Leigh / Fisher Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transit Expansion Office,Aecom Canada Ltd
+CAPITAL,Infrastructure and Development,Technical,Transit Expansion Office,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,Transit Expansion Office,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,Transit Expansion Office,Perkins & Will
+CAPITAL,Infrastructure and Development,Technical,Transit Expansion Office,Arup Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transit Expansion Office,Conference Board of Canada
+CAPITAL,Infrastructure and Development,Creative Communications,Transportation Services,Cycle Toronto
+CAPITAL,Infrastructure and Development,Information Technology,Transportation Services,Richter Advisory Group Inc.
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transportation Services,Nanos Research Corp
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transportation Services,The Hospital For Sick Children
+CAPITAL,Infrastructure and Development,Management / Research & Development,Transportation Services,University Of Toronto
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Parsons Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Steer Davies Gleave North America
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,BDO Canada LLP
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Parsons Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Morrison Hershfield
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Morrison Hershfield
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Wood Environment & Infrastructure
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Plant Architect Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Hka Global Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto Hydro Electric System
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,HDR Corporation
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Metrolinx
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Exp Services Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Alta Planning + Design Canada
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Dillon Consulting
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CAVCOE
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,LEA Consulting Ltd
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,IBI Group Professional Service
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,WSP Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto + Region Conservation For The Living City
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,CIMA Canada Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,22 John Street Development Inc.
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Clean Air Partnership
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Hydro One
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto + Region Conservation For The Living City
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,KITE Research Institute
+CAPITAL,Infrastructure and Development,Technical,Transportation Services,Toronto Transit Commission
+CAPITAL,Infrastructure and Development,Technical,Waterfront Secretariat,Steer Davies Gleave North America
+CAPITAL,Infrastructure and Development,Technical,Waterfront Secretariat,Arup Canada Inc.
+CAPITAL,Agencies and Corporations,Technical,Exhibition Place,CIMA Canada Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,LRI Engineering
+CAPITAL,Agencies and Corporations,Technical,TO Live,VG The Ventin Group Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,VG The Ventin Group Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,VG The Ventin Group Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,VG The Ventin Group Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,VG The Ventin Group Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,AEA Consulting
+CAPITAL,Agencies and Corporations,Technical,TO Live,Blackwell Structural Engineers
+CAPITAL,Agencies and Corporations,Technical,TO Live,Building Arts Architects Inc
+CAPITAL,Agencies and Corporations,Technical,TO Live,Building Arts Architects Inc
+CAPITAL,Agencies and Corporations,Technical,TO Live,CDW Engineering
+CAPITAL,Agencies and Corporations,Technical,TO Live,Diamond Schmitt Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,Elevation Aerial Design and Consulting Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,Epiphany Engineering Inc
+CAPITAL,Agencies and Corporations,Technical,TO Live,ERA Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,ERA Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,ERA Architects
+CAPITAL,Agencies and Corporations,Technical,TO Live,Fisher Dachs Associates
+CAPITAL,Agencies and Corporations,Technical,TO Live,Gluck Partnership Architects Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,Gluck Partnership Architects Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,HJ Consulting Engineering Inc
+CAPITAL,Agencies and Corporations,Technical,TO Live,KJA Consultants Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,KJA Consultants Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,Kramer Design Associates Limited
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,ML Environmental Consulting Inc.
+CAPITAL,Agencies and Corporations,Technical,TO Live,Smith +Andersen
+CAPITAL,Agencies and Corporations,Technical,TO Live,Ugarit Contracting LTD.
+CAPITAL,Agencies and Corporations,Technical,TO Live,YMSD Consulting
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Community Housing Corporation,KPMG LLP
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Community Housing Corporation,PricewaterhouseCoopers LLP
+CAPITAL,Agencies and Corporations,Information Technology,Toronto Police Service,Teramach Technologies Inc.
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Police Service,Procurement Law Office Professional
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Police Service,HKA Global Canada Inc.
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Kasian Architecture Ontario Inc.
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Bell Canada
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Police Service,Ian Martin Information Technology
+CAPITAL,Agencies and Corporations,Technical,Toronto Police Service,Teramach Technologies Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Police Service,400525 Ontario Limited
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Public Library Board,Ernst & Young LLP
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Chernos Flaherty svonkin LLP
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,Willms & Shier Environmental Lawyers
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,"Osler, Hoskins & Harcourt Law Services (C. Wong)"
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Transit Commission,"Osler, Hoskins & Harcourt Law Services (C. Wong)"
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Optimus SBR Inc.
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,KPMG LLP
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Execute Strategy
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Ernst & Young LLP
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,KPMG LLP
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Ernst & Young LLP
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Execute Strategy
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Optimus SBR Inc.
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Ernst & Young LLP
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Transit Commission,Execute Strategy
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,LTK Consulting Services Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Ontario Environmental & Safety Network Ltd.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Bombardier Transportation
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Mott MacDonald Canada Ltd.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,S. Green Services
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,SCL LRT Engineering Services
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Marathon Technical Services
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,LTK Consulting Services Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Mott MacDonald Canada Ltd.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,KPMG LLP
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,WSP Canada Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Kinectrics Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Comtech Group Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,SNC-Lavalin Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,SNC-Lavalin Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,Thales Canada
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,CH2M Hill Canada Ltd
+CAPITAL,Agencies and Corporations,Technical,Toronto Transit Commission,LTK Consulting Services Inc.
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Swerhun Inc.
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective
+CAPITAL,Agencies and Corporations,Creative Communications,Toronto Waterfront Revitalization Corporation,Bespoke Cultural Collective
+CAPITAL,Agencies and Corporations,Information Technology,Toronto Waterfront Revitalization Corporation,Global Privacy & Security by Design Centre
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Bennett Jones LLP
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,McCarthy Tetrault LLP
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Dentons Canada LLP
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,nNovation LLP
+CAPITAL,Agencies and Corporations,Legal (External Lawyers & Planners),Toronto Waterfront Revitalization Corporation,Stikeman Elliott LLP
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,Arup Canada Inc.
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,N. Barry Lyon Consultants Limited
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,Moriyama & Teshima Architects
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,Steer Davies Gleave North America
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,Perkins & Will
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,The Lonsdale Group
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Waterfront Revitalization Corporation,Hammersmith Consultants
+CAPITAL,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,KPMG LLP
+CAPITAL,Agencies and Corporations,Technical,Toronto Waterfront Revitalization Corporation,N. Barry Lyon Consultants Limited
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Zoo,Zeidler Architecture Inc.
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Zoo,Zeidler Architecture Inc.
+CAPITAL,Agencies and Corporations,Management / Research & Development,Toronto Zoo,WSP Canada Inc.
+CAPITAL,Agencies and Corporations,Technical,Toronto Zoo,IRC Building Sciences Group Inc.
+NA,NA,NA,NA,NA
