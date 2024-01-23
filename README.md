@@ -4,7 +4,7 @@
 Welcome to the repository for the research paper titled "How Consulting Expenditure reshape the City
 of Toronto’s Operations?” An analysis of the
 Impact of Consulting Expenditures on City’s
-Efficiency and Performance." This research explores and discusses the dynamic relationship between conulting expenditures, expense type and budget of City of Toronto. We discuss the strategic goals of the City based on patterns and data analysis of past years from 2017 tto 2021.
+Efficiency and Performance." This research explores and discusses the dynamic relationship between conulting expenditures, expense type and budget of City of Toronto. We discuss the strategic goals of the City based on patterns and data analysis of past five years from 2017 to 2021.
 
 ## File Structure
 
