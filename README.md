@@ -1,7 +1,8 @@
 # Starter folder
 
 ## Overview
-Welcome to the repository for the research paper titled "Navigating Governance: Unraveling the Impact of Consulting Expenditures on Efficiency and Performance in the City of Toronto." This research explores the dynamic relationship between budget allocation, consulting expenditures, and the operational efficiency of the City of Toronto.
+Welcome to the repository for the research paper titled "How Consulting Expenditure reshape the City of Toronto’s Operations?” An analysis of the Impact of Consulting Expenditures on City’s
+Efficiency and Performance∗". City of Toronto relies heavily on external consultants for its day to day working. This research paper explores the  relationship between budget allocation, consulting expenditures, and expenditure type of the City over the period of five years from 2017 to 2021. It shall help to better understand the strategic focus and trends of the municipality in different sector and areas within the recent years. 
 
 ## File Structure
 
