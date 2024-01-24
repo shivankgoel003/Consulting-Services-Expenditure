@@ -48,9 +48,8 @@ simulated_consulting_data <- tibble(expense_category = sample(x = expense_catego
 #Display of simulated data                                  
 simulated_consulting_data
 
-#Finding 
 
-## Explore  summaries related to expenditure
+## Exploring  summaries related to expenditure
 
 # Summary of expenditure statistics by budget type
 budget_type_summary <- 
@@ -77,4 +76,11 @@ ggplot(budget_type_summary, aes(x = budget, y = total_expenditure)) +
        x = "Budget Type",
        y = "Total Expenditure") +
   theme_minimal()
-budget_type_summary
+
+
+
+
+
+
+
+

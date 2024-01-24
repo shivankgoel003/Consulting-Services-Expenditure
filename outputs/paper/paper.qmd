@@ -75,11 +75,13 @@ Data cleaning and processing is extremely important to get the accurate results 
 #| tbl-cap: Sample of Cleaned Consulting Expenditure Data 2021
 #| label: tbl_cleaned_data
 
-library(tidyverse) # a collection of data-related packages
-library(knitr) # for kable
+library(tidyverse) 
+library(knitr) 
 library(kableExtra)
 library(here)
-library(ggbeeswarm)
+
+#reading cleaned data
+
 
 cleaned_expenditure_data_2021 = read_csv(
   file = here("inputs/data/cleaned_data_2021.csv"),
@@ -102,6 +104,7 @@ cleaned_expenditure_data_2017 = read_csv(file = here("inputs/data/cleaned_data_2
   show_col_types = FALSE
 )
 
+#plotting table
 options(kableExtra.latex.max.width=1)
 head(cleaned_expenditure_data_2021, 6) |>
   kable(
@@ -116,7 +119,7 @@ head(cleaned_expenditure_data_2021, 6) |>
 ## Data Analysis
 We carried out a thorough data analysis to obtain insights into the trends and patterns within the "Consulting Services Expenditures" dataset. The focus was on visualizing expenditure trends across various dimensions, such as budget types, total expense and  expense categories. We intended to study the results between the expenditure and expense type over the period of 5 years from 2017 to 2021. 
 
-We investigated the trend between the expenditure and budget type, the findings were summarized into a table, where maximum, minimum, average and total expenditure values were observed in relation to the Operating and the Capital budget types. The summarized table can be seen in @tbl_summary_17_21.
+We investigated the trend between the expenditure and budget type, the findings were summarized into a table, where maximum, minimum, average and total expenditure values were observed in relation to the Operating and the Capital budget types. The summarized table can be seen in [@tblsummary].
 
 As a part of our study, we also aimed to observe the total expenditure by expense category for each year, and sought to identify the areas of consulting services that received the highest allocation of expenditure. The expense categories are narrowed as : Creative Communications, Information Technology, Management and Reasearch and Development, Legal and Technical. Studying this shall help in future to understand City of Toronto's performance and efficiency in certain areas. For the purpose of this, a bar graph was plotted between the expenditure category and total expenditure amount over the period of five years. A pie chart was also created to understand the general trend between expenditure and expense category.
 
@@ -128,7 +131,7 @@ We plotted two scatter plots to examine how expenditure value has varied over th
 #| message: false
 #| warning: false
 #| tbl-cap: Summary of Consulting Expenditure by Budget Type (2017-2021)
-#| label: tbl_summary_17_21
+#| label: tblsummary
 
 cleaned_expenditure_data_2021 = cleaned_expenditure_data_2021 %>%
   rename(EXPENDITURE = x2021_expenditure)
@@ -180,6 +183,8 @@ budget_type_summary_all_years %>%
 #| echo: false
 #| message: false
 #| warning: false
+#| fig-cap: Bar graph for Total Expenditure by Expense Category (2017-2021)
+#| label: bar_graph
 
 library(dplyr)
 library(gridExtra)
@@ -194,8 +199,17 @@ ggplot(data = combined_data, aes(x = expense_category, y = EXPENDITURE, fill = a
        fill = "Year") +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))+
   scale_y_continuous(labels = scales::comma_format())
+```
 
 
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-cap: Pie chart for Expenditure Share by Expense Category
+#| label: pie_chart
+
+#Plotting pie chart
 ggplot(data = combined_data, aes(x = "", y = EXPENDITURE, fill = expense_category)) +
   geom_bar(stat = "identity", width = 1, color = "white") +
   coord_polar(theta = "y") +
@@ -207,8 +221,16 @@ ggplot(data = combined_data, aes(x = "", y = EXPENDITURE, fill = expense_categor
   scale_y_continuous(labels = scales::comma_format())
 
 combined_data$Year <- as.factor(combined_data$Year)
+```
 
-# Plot scatter plot with jitter
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-cap: Scatter plot of Expenditure Over Years
+#| label: scatter_plot
+
+# Scatter plot with jitter
 ggplot(data = combined_data, aes(x = Year, y = EXPENDITURE)) +
   geom_point(position = position_jitter(), alpha = 0.6) +
   labs(title = "Scatter Plot of Expenditure Over Years",
@@ -218,6 +240,14 @@ ggplot(data = combined_data, aes(x = Year, y = EXPENDITURE)) +
   scale_y_continuous(labels = scales::comma_format())
 
 combined_data$Year <- as.factor(combined_data$Year)
+```
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+#| fig-cap: Trend plot of Expenditure Over Years
+#| label: trend_plot
 
 # Trend plot with smooth curve
 ggplot(data = combined_data, aes(x = Year, y = EXPENDITURE)) +
@@ -228,15 +258,13 @@ ggplot(data = combined_data, aes(x = Year, y = EXPENDITURE)) +
        y = "Total Expenditure") +
   theme_minimal()+
   scale_y_continuous(labels = scales::comma_format())
-
-
 ```
 
 # Discussion and Results {#sec-data1}
 
 ## Consulting Expenditure trend with respect to Budget Type
 
-We can see in the summary table @tbl_summary_17_21, that the consulting expenditure cost with capital budget type has always been relatively higher than the operational budget type. A capital budget is the system which is used by businesses to decide on long-term upgrades and replacements where as operational budget is a company's financial plan for its day-to-day expenses. 
+We can see in the summary table [@tblsummary], that the consulting expenditure cost with capital budget type has always been relatively higher than the operational budget type. A capital budget is the system which is used by businesses to decide on long-term upgrades and replacements where as operational budget is a company's financial plan for its day-to-day expenses. 
 
 This clearly means that a higher amount of money was expended on Consulting firms for the purpose of long term capital budgets than the operational budgets. It can also be seen that the consulting expenditure for both operational and capital budget has always increased from year to year, except for 2021, where the consulting expenditure for Capital decreased. It is also noted that the consulting expenditure amount for Operating budget has doubled in 2021 compared to 2017s expenditure, whereas there has not been a higher increase from 2017 to 2021 in consulting expenditure for capital budget. 
 

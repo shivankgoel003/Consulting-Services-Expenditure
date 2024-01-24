@@ -1,10 +1,7 @@
 # Starter folder
 
 ## Overview
-Welcome to the repository for the research paper titled "How Consulting Expenditure reshape the City
-of Toronto’s Operations?” An analysis of the
-Impact of Consulting Expenditures on City’s
-Efficiency and Performance." This research explores and discusses the dynamic relationship between conulting expenditures, expense type and budget of City of Toronto. We discuss the strategic goals of the City based on patterns and data analysis of past five years from 2017 to 2021.
+Welcome to the repository for the research paper titled "Navigating Governance: Unraveling the Impact of Consulting Expenditures on Efficiency and Performance in the City of Toronto." This research explores the dynamic relationship between budget allocation, consulting expenditures, and the operational efficiency of the City of Toronto.
 
 ## File Structure
 
@@ -14,4 +11,3 @@ The repo is structured as:
 -   `outputs/data` contains the cleaned dataset that was constructed.
 -   `outputs/paper` contains the files used to generate the paper, including the Quarto document and reference bibliography file, as well as the PDF of the paper. 
 -   `scripts` contains the R scripts used to simulate, download and clean data.
-
