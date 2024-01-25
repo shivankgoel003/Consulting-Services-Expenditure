@@ -1,10 +1,10 @@
 ---
-title: "“How Consulting Expenditure reshape the City of Toronto’s Operations?” An analysis of the Impact of Consulting Expenditures on City’s Efficiency and Performance "
+title: "Insightful Analysis of City of Toronto's Consulting Expenditure"
 author: Shivank Goel
 thanks: "Code and data are available at: https://github.com/shivankgoel003/Consulting-Services-Expenditure."
 date: today
 date-format: long
-abstract: " This paper investigates and discusses about the impact of consulting expenditures on effciceny and performance of the City of Toronto from 2017 to 2021. A comprehensive dataset about consulting expenditure was obtaiend from City's Open Data Portal, and after analysing the data, it was revealed that there is a consistent increase in consulting expenditures with a strategic focus on technical and management/research and development areas. Visualizations, including bar graph, pie charts and scatter plots gives clear insight into expenditure patterns. A further analysis can be performed to dive deeper into specific areas of consulting services."
+abstract: " This paper investigates and discusses about the impact of consulting expenditures on effciceny and performance of the City of Toronto in recent years, exspecially from 2017 to 2021. A comprehensive dataset about consulting expenditure was obtaiend from City's Open Data Portal, and after analysing the data, it was revealed that there is a consistent increase in consulting expenditures with a strategic focus on technical and management/research and development areas. Visualizations, including bar graph, pie charts and scatter plots gives clear insight into expenditure patterns. A further analysis can be performed to dive deeper into specific areas of consulting services."
 
 format: pdf
 toc: true
@@ -66,11 +66,11 @@ It is important to note that the data did not encompass certain smaller agencies
 
 ## Data processing and cleaning
 
-Data cleaning and processing is extremely important to get the accurate results to perform the analysis. The dataset was divided into sheets for each year (2017-2021), therefore, each sheet was read into a separate dataframe for further processing. Also since, the first two rows were acquired as headings for better visualization, these rows were skipped during the reading process. Similarly, the last two rows were also omitted as they were assigned with the total expenditure value, which we did not require explicitly. The expenditure column for each year had certain values enclosed within parenthesis, these values were changed to numeric values and parenthesis were removed as part of data cleaning. The column names in each dataframe were standardized using the clean_names function from the janitor library. After this, selected columns of interest were extracted from each dataframe, focusing on relevant information such as budget type, city/agency identification, expense category, division/board, consultant's name, and yearly expenditure. Some of the longer expense category names were simplified into shorter names using mutate function. At the end, the cleaned datasets for each year were saved as CSV files for future analysis. A sample of cleaned consulting expenditure data for year 2021 can be seen in @tbl_cleaned_data 
+Data cleaning and processing is extremely important to get the accurate results to perform the analysis. The dataset was divided into sheets for each year (2017-2021), therefore, each sheet was read into a separate dataframe for further processing. Also since, the first two rows were acquired as headings for better visualization, these rows were skipped during the reading process. Similarly, the last two rows were also omitted as they were assigned with the total expenditure value, which we did not require explicitly. The expenditure column for each year had certain values enclosed within parenthesis, these values were changed to numeric values and parenthesis were removed as part of data cleaning. The column names in each dataframe were standardized using the clean_names function from the janitor library. After this, selected columns of interest were extracted from each dataframe, focusing on relevant information such as budget type, city/agency identification, expense category, division/board, consultant's name, and yearly expenditure. Some of the longer expense category names were simplified into shorter names using mutate function. At the end, the cleaned datasets for each year were saved as CSV files for future analysis. A sample of cleaned consulting expenditure data for year 2021 can be seen in (Table 1)
 
-```{r}
-#| echo: false
+```{r tbl_cleaned_data}
 #| message: false
+#| echo: false
 #| warning: false
 #| tbl-cap: Sample of Cleaned Consulting Expenditure Data 2021
 #| label: tbl_cleaned_data
@@ -117,21 +117,22 @@ head(cleaned_expenditure_data_2021, 6) |>
 ```
 
 ## Data Analysis
-We carried out a thorough data analysis to obtain insights into the trends and patterns within the "Consulting Services Expenditures" dataset. The focus was on visualizing expenditure trends across various dimensions, such as budget types, total expense and  expense categories. We intended to study the results between the expenditure and expense type over the period of 5 years from 2017 to 2021. 
 
-We investigated the trend between the expenditure and budget type, the findings were summarized into a table, where maximum, minimum, average and total expenditure values were observed in relation to the Operating and the Capital budget types. The summarized table can be seen in [@tblsummary].
+We carried out a thorough data analysis to obtain insights into the trends and patterns within the "Consulting Services Expenditures" dataset. The focus was on visualizing expenditure trends across various dimensions, such as budget types, total expense and expense categories. We intended to study the results between the expenditure and expense type over the period of 5 years from 2017 to 2021.
 
-As a part of our study, we also aimed to observe the total expenditure by expense category for each year, and sought to identify the areas of consulting services that received the highest allocation of expenditure. The expense categories are narrowed as : Creative Communications, Information Technology, Management and Reasearch and Development, Legal and Technical. Studying this shall help in future to understand City of Toronto's performance and efficiency in certain areas. For the purpose of this, a bar graph was plotted between the expenditure category and total expenditure amount over the period of five years. A pie chart was also created to understand the general trend between expenditure and expense category.
+We investigated the trend between the expenditure and budget type, the findings were summarized into a table, where maximum, minimum, average and total expenditure values were observed in relation to the Operating and the Capital budget types. The summarized table can be seen in (Table 2).
+
+As a part of our study, we also aimed to observe the total expenditure by expense category for each year, and sought to identify the areas of consulting services that received the highest allocation of expenditure. The expense categories are narrowed as : Creative Communications, Information Technology, Management and Research and Development, Legal and Technical. Studying this shall help in future to understand City of Toronto's performance and efficiency in certain areas. For the purpose of this, a bar graph was plotted between the expenditure category and total expenditure amount over the period of five years. A pie chart was also created to understand the general trend between expenditure and expense category.
 
 We plotted two scatter plots to examine how expenditure value has varied over the years for Consulting services allocation. One of the scatter plot has definite data points, while the other scatter plot with a smoothed line has continuous data points. However, they both represent the same general trend of consulting expenditure over the years by City of Toronto.
-
 
 ```{r}
 #| echo: false
 #| message: false
 #| warning: false
-#| tbl-cap: Summary of Consulting Expenditure by Budget Type (2017-2021)
 #| label: tblsummary
+#| tbl-cap: Summary of Consulting Expenditure by Budget Type (2017-2021)
+
 
 cleaned_expenditure_data_2021 = cleaned_expenditure_data_2021 %>%
   rename(EXPENDITURE = x2021_expenditure)
@@ -169,15 +170,13 @@ budget_type_summary_all_years <-
 
 options(kableExtra.latex.max.width = 1)
 budget_type_summary_all_years %>% 
-  kable(
+  kable(format="markdown", 
     col.names = c("Year", "Budget Type", "Total Expenditure", "Average Expenditure", "Maximum Expenditure", "Minimum Expenditure"),
     booktabs = TRUE,
     longtable = FALSE
   ) %>%
   kable_styling(latex_options = c("striped", "scale_down"))
 ```
-
-
 
 ```{r}
 #| echo: false
@@ -200,7 +199,6 @@ ggplot(data = combined_data, aes(x = expense_category, y = EXPENDITURE, fill = a
   theme(axis.text.x = element_text(angle = 45, hjust = 1))+
   scale_y_continuous(labels = scales::comma_format())
 ```
-
 
 ```{r}
 #| echo: false
@@ -264,33 +262,33 @@ ggplot(data = combined_data, aes(x = Year, y = EXPENDITURE)) +
 
 ## Consulting Expenditure trend with respect to Budget Type
 
-We can see in the summary table [@tblsummary], that the consulting expenditure cost with capital budget type has always been relatively higher than the operational budget type. A capital budget is the system which is used by businesses to decide on long-term upgrades and replacements where as operational budget is a company's financial plan for its day-to-day expenses. 
+We can see in the summary table (Table 2), that the consulting expenditure cost with capital budget type has always been relatively higher than the operational budget type. A capital budget is the system which is used by businesses to decide on long-term upgrades and replacements where as operational budget is a company's financial plan for its day-to-day expenses.
 
-This clearly means that a higher amount of money was expended on Consulting firms for the purpose of long term capital budgets than the operational budgets. It can also be seen that the consulting expenditure for both operational and capital budget has always increased from year to year, except for 2021, where the consulting expenditure for Capital decreased. It is also noted that the consulting expenditure amount for Operating budget has doubled in 2021 compared to 2017s expenditure, whereas there has not been a higher increase from 2017 to 2021 in consulting expenditure for capital budget. 
+This clearly means that a higher amount of money was expended on Consulting firms for the purpose of long term capital budgets than the operational budgets. It can also be seen that the consulting expenditure for both operational and capital budget has always increased from year to year, except for 2021, where the consulting expenditure for Capital decreased. It is also noted that the consulting expenditure amount for Operating budget has doubled in 2021 compared to 2017s expenditure, whereas there has not been a higher increase from 2017 to 2021 in consulting expenditure for capital budget.
 
 ## Expense Category relationship with Total Consulting Expenditure
 
-It is evident from the graph that Technical as well as Management or Research & Development are the areas, for which majority of consulting vendors are hired and paid for. This means, that these are the two areas where City of Toronto is primarily focusing on within the past recent years as part of development. It can also be seen that in these areas the amount of consulting expenditure in 2017 versus the amount of consulting expenditure has drastically increased. Back in 2017, City of Toronto expended approximately 700,000 dollars on consulting services for technical, however, in 2021 they spent over 2 million dollars. Also for Management or R&D consulting expenditure, the City spent approximately 1 million dollars in 2017, whereas, in 2021 they increased it to approximately 3 million. Creative communications is the area, where least amount of total money is expended for consulting services. It is also worth noting, that Information and Technology consulting expenditure has drastically increased in 2021, compared to other years. 
+It is evident from the graph (Figure 1) that Technical as well as Management or Research & Development are the areas, for which majority of consulting vendors are hired and paid for. This means, that these are the two areas where City of Toronto is primarily focusing on within the past recent years as part of development. It can also be seen that in these areas the amount of consulting expenditure in 2017 versus the amount of consulting expenditure has drastically increased. Back in 2017, City of Toronto expended approximately 700,000 dollars on consulting services for technical, however, in 2021 they spent over 2 million dollars. Also for Management or R&D consulting expenditure, the City spent approximately 1 million dollars in 2017, whereas, in 2021 they increased it to approximately 3 million. Creative communications is the area, where least amount of total money is expended for consulting services. It is also worth noting, that Information and Technology consulting expenditure has drastically increased in 2021, compared to other years.
 
-Overall, it can be visualized even by pie chart that the consulting expenditure was maximum for Technical, followed by Management/ R&D, followed by Legal, followed by IT and lastly Creative Communications over the span of years. Hence, this can be used to understand City's performance and efficiency. 
-
+Overall, it can be visualized even by pie chart (Figure 2)  that the consulting expenditure was maximum for Technical, followed by Management/ R&D, followed by Legal, followed by IT and lastly Creative Communications over the span of years. Hence, this can be used to understand City's performance and efficiency.
 
 ## Total Consulting Expenditure trend over the years (2017-2021)
 
-In order to study overall general trend for consulting expenditure over the years from 2017 to 2021, we plotted scatter plots, which showed that each year money spent on consulting vendors and services has increased from year to year. It seems there has not been a significant increase from 2017 to 2018 consulting expenditure. This overall signifies that City of Toronto has allocated a higher budget for consulting purposes each year, meaning they have expanded and grown themselves in recent years.
+In order to study overall general trend for consulting expenditure over the years from 2017 to 2021, we plotted scatter plots(Figure 3,4), which showed that each year money spent on consulting vendors and services has increased from year to year. It seems there has not been a significant increase from 2017 to 2018 consulting expenditure. This overall signifies that City of Toronto has allocated a higher budget for consulting purposes each year, meaning they have expanded and grown themselves in recent years.
 
+# Conclusions and Limitaions
 
-## Conclusions and Limitaions 
+Based on the data analysis and results, it can be concluded that: 
 
-Based on the data analysis and results, it can be concluded that:
-1. There has been a consistent increase in consulting expenditure over the years, indicating City of Toronto's growing reliance upon external experts.
-2. The higher consulting expenditure in the capital budget type suggests a strategic allocation of resources for long-term upgrades and replacements.
-3. Technical and Management/Research & Development are key areas of focus for consulting services.
+1. There has been a consistent increase in consulting expenditure over the years, indicating City of Toronto's growing reliance upon external experts. 
+
+2. The higher consulting expenditure in the capital budget type suggests a strategic allocation of resources for long-term upgrades and replacements. 
+
+3. Technical and Management/Research & Development are key areas of focus for consulting services. 
+
 4. Future studies could explore the impact of consulting services on specific projects or departments, providing more insights.
 
-The limitations for this study are:
-1. It focuses on the data from year 2017 to 2021. Changes in trends or patterns outside this period may not be captured.
-2. External factors that could influence consulting expenditure trends, such as changes in government policies, economic polices, etc. are not taken into consideration.
+The limitations for this study are: 1. It focuses on the data from year 2017 to 2021. Changes in trends or patterns outside this period may not be captured. 2. External factors that could influence consulting expenditure trends, such as changes in government policies, economic polices, etc. are not taken into consideration.
 
 \newpage
 
